@@ -4,7 +4,7 @@ export default function Topbar() {
   return (
     <div className="topbarContainer">
       <div className="topbarLeft">
-        <span className="logo">React Social</span>
+        <span className="logo">Reactsocial</span>
       </div>
       <div className="topbarCenter">
         <div className="searchbar">
@@ -34,7 +34,7 @@ export default function Topbar() {
             <span className="topbarIconBadge">1</span>
           </div>
         </div>
-        <img src="/assets/person/1.jpeg" alt="" className="topbarImg" />
+        <img src="/assets/person/1.jpg" alt="" className="topbarImg" />
       </div>
     </div>
   );
